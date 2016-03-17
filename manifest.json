@@ -43,7 +43,8 @@
      "serial",
      { "usbDevices": [
 	     { "vendorId": 1208, "productId": 514 },
-	     { "vendorId": 1027, "productId": 24577 }
+	     { "vendorId": 1027, "productId": 24577 },
+	     { "vendorId": 067b, "productId": 2303}
 	     ]
      }
   ],
